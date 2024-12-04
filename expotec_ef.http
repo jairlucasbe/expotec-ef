@@ -1,0 +1,6 @@
+@expotec_ef_HostAddress = http://localhost:5103
+
+GET {{expotec_ef_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
